@@ -41,8 +41,5 @@ yarn add @unform/core @unform/web
 * **RocketSeat Vídeo** - *Vídeo aula* - [RocketSeat](https://www.youtube.com/watch?v=P65RJTTqkN4)
 * **Lucas Vilas** - *Reproduziu o código*
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 
